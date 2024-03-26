@@ -18,12 +18,13 @@ This repository contains a Python script designed to scrape posts from Facebook 
     pandas
     selenium
     ```
-
-3. **Run the Script:**
+    In order to ru this code, the required system must have mozilla firefox browser and its respective web driver file called the 'geckodriver'. Install them and copy the path of the
+   gecko driver to use it in the code.
+4. **Run the Script:**
 
     Execute the script `Facebook Scraper.ipynb` with Python using jupyter notebook or google colab.
 
-4. **Output:**
+5. **Output:**
 
     The scraped posts will displayed in a tabular format. 
 
