@@ -22,7 +22,7 @@ This repository contains a Python script designed to scrape posts from Facebook 
    gecko driver to use it in the code.
 4. **Run the Script:**
 
-    Execute the script `Facebook Scraper.ipynb` with Python using jupyter notebook or google colab.
+    Execute the script `Facebook Scraper.ipynb` with Python using jupyter notebook.
 
 5. **Output:**
 
