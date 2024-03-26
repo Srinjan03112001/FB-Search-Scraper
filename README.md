@@ -7,7 +7,7 @@ This repository contains a Python script designed to scrape posts from Facebook 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Srinjan03112001/FB-Search_Scraper.git
+    git clone https://github.com/Srinjan03112001/FB-Search-Scraper.git
     ```
 
 2. **Install Dependencies:**
