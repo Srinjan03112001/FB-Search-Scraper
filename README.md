@@ -33,6 +33,7 @@ This repository contains a Python script designed to scrape posts from Facebook 
 - Ensure that you have a dummy Facebook account set up for scraping purposes. Do not use personal or sensitive accounts.
 - It is recommended to review Facebook's terms of service and scraping policies before using this script for any commercial or large-scale purposes.
 - Use responsibly and considerate of Facebook's platform policies and guidelines.
+- The code is still a prototype, might have some bugs.
 
 ## Disclaimer
 
