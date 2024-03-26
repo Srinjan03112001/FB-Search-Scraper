@@ -18,7 +18,7 @@ This repository contains a Python script designed to scrape posts from Facebook 
     pandas
     selenium
     ```
-    In order to ru this code, the required system must have mozilla firefox browser and its respective web driver file called the 'geckodriver'. Install them and copy the path of the
+    In order to run this code, the required system must have mozilla firefox browser and its respective web driver file called the 'geckodriver'. Install them and copy the path of the
    gecko driver to use it in the code.
 4. **Run the Script:**
 
