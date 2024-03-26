@@ -21,7 +21,7 @@ This repository contains a Python script designed to scrape posts from Facebook 
 
 3. **Run the Script:**
 
-    Execute the script `Facebook Scraoer.ipynb` with Python using jupyter notebook or google colab.
+    Execute the script `Facebook Scraper.ipynb` with Python using jupyter notebook or google colab.
 
 4. **Output:**
 
